@@ -1,0 +1,5 @@
+prime = "2 23 17","7 29 11","3 31 19"
+for i in prime: 
+      if i==prime[0]:
+        print(prime[0] + "\n" + prime[1] + "\n" + prime[2])
+       
